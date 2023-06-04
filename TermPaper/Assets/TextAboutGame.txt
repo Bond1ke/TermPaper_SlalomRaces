@@ -1,0 +1,12 @@
+Term paper - "Game made with SDL". Game - "Slalom/races".
+Made by Bogdan Gulmanov, 1st year student of the VOENMEH (group O714b).
+
+You can navigate through the main menu and pause menu by 
+pressing arrow keys on your keyboard or by using your mouse.
+
+The goal of the game is to collect as many points as possible in less time. 
+Player gets 100 ponts if he passes between the flags.
+
+To control the player use left and right arrow keys on your keyboard.
+
+Voenmeh luchshe vseh!!!1
